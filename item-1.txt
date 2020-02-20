@@ -1,2 +1,4 @@
 ho va ten : Pham van phuc
+bang cap : ki su cong nghe thong tin
+truong dai hoc cong nghe thong tin va truyen thong - Thai Nguyen
 
